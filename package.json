@@ -1,5 +1,5 @@
 {
-  "name": "prime-music",
+  "name": "akxsh music",
   "version": "1.2",
   "description": "Music Bot",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SSRR",
+  "author": "akxsh",
   "license": "XX",
   "engines": {
     "node": "20.x"
